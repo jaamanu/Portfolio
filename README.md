@@ -15,7 +15,7 @@ I used Laura Jong's [template](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4
 
 ## Live Demo
 
-[Portfolio]()
+[Portfolio](https://jamanu.netlify.app/)
 
 
 ## Getting Started
